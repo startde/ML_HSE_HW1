@@ -42,5 +42,5 @@
 - Проект успешно достиг поставленных целей: разработан сервис на базе FastAPI, обеспечивающий точные предсказания стоимости автомобилей.
 
 # Скрины работы сервиса
-/FastApi_predict_item.png
+<img src="[https://github.com/user-attachments/assets/98d4be79-cd1c-424e-b399-d032c9d681af](https://github.com/startde/ML_HSE_HW1/blob/main/FastApi_predict_item.png)" alt="System design" height="400">
 /FastApi_predict_items.png
